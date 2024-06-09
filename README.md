@@ -25,5 +25,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### ✍️ Blog Posts : 
 
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/bytecodesky/test-hka)
+- [All you need to know about JSON?](https://dev.to/bytecodesky/test-hka)
 <!-- BLOG-POST-LIST:END -->
