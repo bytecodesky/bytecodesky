@@ -14,7 +14,7 @@
 
 - ⚡ In my free time I solve problems and read tech articles.
 
-- 📫 How to reach me: :email:
+- 📝 I regularly write articles on Dev
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
