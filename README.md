@@ -32,3 +32,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [All you need to know about JSON?](https://dev.to/bytecodesky/test-hka)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+    <h2>#30nitesOfCode:</h2>
+    <a href="https://www.codedex.io/@bytecodesky/30-nites-of-code">Check out my progress!</a>
+    <p><img src="https://www.codedex.io/api/petStatus?user=bytecodesky"></p>
+</div>
