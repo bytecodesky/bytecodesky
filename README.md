@@ -1,9 +1,10 @@
 <p style='margin-right'><img src="https://komarev.com/ghpvc/?username=bytecodesky&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey there I'm <a href='https://www.bytecodesky.me' target='_blank'>Angel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h3 align='center'>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.</h3>
+<h3 align='center'>I am a Full Stack Developer
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.</h3>
 <a target='_blank' align='center'>
-    <img align="right" top="500" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+    <img align="right" top="250" height="250" width="300" alt="GIF" src="haze-programmer-writing-code-on-laptop-1.png"/>
 </a>
 
 ### :woman_technologist: &nbsp;About Me :
