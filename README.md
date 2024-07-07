@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I’m working as a CyberSec Researcher and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a CyberSec Researcher and contributing to backend for building web applications.
 
 - 🌱 Exploring Technical Content Writing.
 
