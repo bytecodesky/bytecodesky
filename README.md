@@ -1,7 +1,7 @@
 <p style='margin-right'><img src="https://komarev.com/ghpvc/?username=bytecodesky&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey there I'm <a href='https://www.bytecodesky.me' target='_blank'>Angel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h3 align='center'>I am a Full Stack Developer
+<h3 align='center'>I'm a code whisperer, but my plants don't listen
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.</h3>
 <a target='_blank' align='center'>
     <img align="right" top="250" height="250" width="300" alt="GIF" src="haze-programmer-writing-code-on-laptop-1.png"/>
